@@ -1,0 +1,14 @@
+/Users/alpha/Documents/hacking/chaos/Jalsa/Jalsa/bin/Debug/netcoreapp2.2/Jalsa.deps.json
+/Users/alpha/Documents/hacking/chaos/Jalsa/Jalsa/bin/Debug/netcoreapp2.2/Jalsa.runtimeconfig.json
+/Users/alpha/Documents/hacking/chaos/Jalsa/Jalsa/bin/Debug/netcoreapp2.2/Jalsa.runtimeconfig.dev.json
+/Users/alpha/Documents/hacking/chaos/Jalsa/Jalsa/bin/Debug/netcoreapp2.2/Jalsa.dll
+/Users/alpha/Documents/hacking/chaos/Jalsa/Jalsa/bin/Debug/netcoreapp2.2/Jalsa.pdb
+/Users/alpha/Documents/hacking/chaos/Jalsa/Jalsa/obj/Debug/netcoreapp2.2/Jalsa.csprojAssemblyReference.cache
+/Users/alpha/Documents/hacking/chaos/Jalsa/Jalsa/obj/Debug/netcoreapp2.2/Jalsa.csproj.CoreCompileInputs.cache
+/Users/alpha/Documents/hacking/chaos/Jalsa/Jalsa/obj/Debug/netcoreapp2.2/Jalsa.RazorAssemblyInfo.cache
+/Users/alpha/Documents/hacking/chaos/Jalsa/Jalsa/obj/Debug/netcoreapp2.2/Jalsa.RazorAssemblyInfo.cs
+/Users/alpha/Documents/hacking/chaos/Jalsa/Jalsa/obj/Debug/netcoreapp2.2/Jalsa.AssemblyInfoInputs.cache
+/Users/alpha/Documents/hacking/chaos/Jalsa/Jalsa/obj/Debug/netcoreapp2.2/Jalsa.AssemblyInfo.cs
+/Users/alpha/Documents/hacking/chaos/Jalsa/Jalsa/obj/Debug/netcoreapp2.2/Jalsa.RazorTargetAssemblyInfo.cache
+/Users/alpha/Documents/hacking/chaos/Jalsa/Jalsa/obj/Debug/netcoreapp2.2/Jalsa.dll
+/Users/alpha/Documents/hacking/chaos/Jalsa/Jalsa/obj/Debug/netcoreapp2.2/Jalsa.pdb
